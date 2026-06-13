@@ -1,8 +1,7 @@
-# humanitarian-delivery-monitoring-dashboard
 # Humanitarian Delivery Monitoring Dashboard
 
 <p align="center">
-  <img src="screenshots/dashboard-overview.png" alt="Dashboard Overview" width="100%">
+  <img src="screenshots/humanitarian-delivery-dashboard.png" alt="Dashboard Overview" width="100%">
 </p>
 
 ## Executive Summary
