@@ -1,0 +1,1 @@
+This project uses simulated humanitarian datasets designed to reflect operational workflows for educational and portfolio purposes only. No confidential WFP, FAO, or any other UN agency beneficiary or partner data has been used
